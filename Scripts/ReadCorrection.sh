@@ -2,9 +2,9 @@
 #PBS -P xe2
 #PBS -q normalbw
 #PBS -l walltime=24:00:00
-#PBS -l mem=64GB
+#PBS -l mem=256GB
 #PBS -l jobfs=300GB
-#PBS -l ncpus=16
+#PBS -l ncpus=32
 #PBS -l wd
 #PBS -m abe
 #PBS -M  james.kondilios@anu.edu.au
