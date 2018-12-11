@@ -1,0 +1,7 @@
+2018-12-11 13:36:58,377 NanoPlot 1.19.0 started with arguments Namespace(N50=False, alength=False, bam=None, barcoded=False, color='#4CB391', cram=None, downsample=None, dpi=100, drop_outliers=False, fasta=None, fastq=['/g/data/xe2/projects/james_directory/e.marg_assembly/Data/trimmed-qualityfiltered-reads_withoutLambda.fastq'], fastq_minimal=None, fastq_rich=None, font_scale=1, format='png', listcolors=False, loglength=False, maxlength=None, minlength=None, minqual=None, no_N50=False, outdir='/g/data/xe2/projects/james_directory/e.marg_assembly/Data/plot_trimmed-qualityfiltered-reads_withoutLambda', percentqual=False, pickle=None, plots=['kde', 'dot'], prefix='', raw=False, readtype='1D', runtime_until=None, store=False, summary=None, threads=5, title=None, verbose=False)
+2018-12-11 13:36:58,378 Python version is: 3.6.2 (default, Aug 14 2017, 13:37:56)  [GCC 4.4.7 20120313 (Red Hat 4.4.7-18)]
+2018-12-11 13:37:01,002 Nanoplotter: valid output format png
+2018-12-11 13:37:01,049 Nanoget: Starting to collect statistics from plain fastq file.
+2018-12-11 13:37:01,279 Reduced DataFrame memory usage from 0.0Mb to 0.0Mb
+2018-12-11 13:37:01,285 Nanoget: Gathered all metrics of 0 reads
+2018-12-11 13:37:01,285 Nanoget: no reads retrieved.
