@@ -3,8 +3,8 @@
 #PBS -q normalbw
 #PBS -l walltime=24:00:00
 #PBS -l mem=16GB
-#PBS -l jobfs=100GB
-#PBS -l ncpus=1
+#PBS -l jobfs=50GB
+#PBS -l ncpus=5
 #PBS -l wd
 #PBS -m abe
 #PBS -M  james.kondilios@anu.edu.au
