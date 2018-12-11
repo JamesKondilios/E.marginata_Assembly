@@ -1,0 +1,13 @@
+
+======================================================================================
+                  Resource Usage on 2018-12-11 14:06:36:
+   Job Id:             3566952.r-man2
+   Project:            xe2
+   Exit Status:        1
+   Service Units:      0.69
+   NCPUs Requested:    5                      NCPUs Used: 5               
+                                           CPU Time Used: 00:00:03                                   
+   Memory Requested:   16.0GB                Memory Used: 97.44MB         
+   Walltime requested: 24:00:00            Walltime Used: 00:06:38        
+   JobFS requested:    50.0GB                 JobFS used: 0B              
+======================================================================================

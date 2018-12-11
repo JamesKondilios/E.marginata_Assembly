@@ -1,0 +1,3 @@
+/jobfs/local/pbs/mom_priv/jobs/3566952.r-man2.SC: line 12: /g/data/xe2/projects/james_directory/e.marg_assembly/Data/trimmed-qualityfiltered-reads.fastq: Permission denied
+NanoLyse: removed 0 reads.
+Fatal: No reads found in input.
