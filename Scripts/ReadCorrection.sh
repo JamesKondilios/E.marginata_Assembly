@@ -7,7 +7,7 @@ module load canu
 canu -correct \
 -p emarginata \
 -d /short/xe2/jk9065/emarg_readcorrected  \
--nanopore-raw trimmed-qualityfiltered-reads_withoutLambda.fastq \
+-nanopore-raw /g/data/xe2/projects/james_directory/e.marg_assembly/Data/trimmed-qualityfiltered-reads_withoutLambda.fastq \
 genomeSize=580m \
 maxThreads=512 \
 maxMemory=63 \
