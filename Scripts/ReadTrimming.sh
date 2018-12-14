@@ -7,7 +7,7 @@ module load canu
 canu -trim \
 -p emarginata \
 -d /short/xe2/jk9065/emarg_readtrimmed  \
---nanopore-corrected /short/xe2/jk9065/emarg_readcorrected/emarginata.correctedReads.fasta.gz \
+-nanopore-corrected /short/xe2/jk9065/emarg_readcorrected/emarginata.correctedReads.fasta.gz \
 genomeSize=580m \
 maxThreads=512 \
 maxMemory=63 \
